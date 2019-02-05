@@ -1,4 +1,4 @@
-# What does MobX react to?
+# What does MobX react do?
 
 MobX usually reacts to exactly the things you expect it to.
 Which means that in 90% of your use cases mobx "just works".
